@@ -1,0 +1,16 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+build/
+
+# Java bytecode
+*.class
+
+# Carpetas de ejecucion y descarga
+imagenes/
+descargas/
+*.tmp
+
+# Archivos de reporte generados localmente en pruebas
+*.csv
